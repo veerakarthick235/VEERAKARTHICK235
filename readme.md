@@ -41,7 +41,7 @@ I'm an aspiring AI Engineer, Backend Developer, and Innovator, passionate about 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://veerakarthick235.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%" />
+  <img src="https://veerakarthick235.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="51%" />
   <img src="https://veerakarthick235.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
 </p>
 <p align="center">
