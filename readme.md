@@ -39,8 +39,8 @@ I'm an aspiring AI Engineer, Backend Developer, and Innovator, passionate about 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR_NEW_VERCEL_APP_URL.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://YOUR_NEW_VERCEL_APP_URL.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https:veerakarthick235.vercel.app/api?username=VEERAKARTHICK235&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https:veerakarthick235.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerakarthick235&theme=tokyonight&hide_border=true" width="50%" />
@@ -53,7 +53,6 @@ I'm an aspiring AI Engineer, Backend Developer, and Innovator, passionate about 
 <p align="left">
 <a href="https://www.linkedin.com/in/karthickkumar-s-b04a10348" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://karthick.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="https://twitter.com/VEERAKARTHICK1235" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 <a href="mailto:veerakarthick235@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
