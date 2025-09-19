@@ -45,7 +45,7 @@ I'm an aspiring AI Engineer, Backend Developer, and Innovator, passionate about 
   <img src="https://veerakarthick235.vercel.app/api/top-langs/?username=VEERAKARTHICK235&layout=compact&theme=tokywhite&hide_border=true&count_private=true" width="41%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerakarthick235&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://veerakarthick235.vercel.app/api?username=veerakarthick235&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 
